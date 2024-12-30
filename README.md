@@ -1,3 +1,2 @@
-# GitFor-Devops
-DevOps codes
-<br>this is git file
+this is new repository
+this is new featureggi
