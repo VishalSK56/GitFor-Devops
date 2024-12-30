@@ -1,2 +1,2 @@
 # GitFor-Devops
-DevOps codes
+DevOps codes git is installed
